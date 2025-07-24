@@ -1,6 +1,8 @@
 ## Hi 👋, I'm Ishmael Chirume
 
 - I'm a Computer Science student passionate about building intelligent software and solving real-world problems with code.
+- 💻 I enjoy working with Python, Java, and modern tools like TensorFlow, PyTorch, and Hugging Face.
+- 📚 Always learning and open to collaborating on exciting tech projects.
 - 🔭 I’m currently working on ARTIFICIAL INTELLIGENCE POWERED MEDICAL RECOMMENDER SYSTEM WITH TELEMEDICINE SUPPORT
 - 🌱 I’m currently learning Deep Learning
 - 📫 How to reach me: ichirume99@gmail.com
