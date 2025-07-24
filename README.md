@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi 👋, I'm Ishmael Chirume
+- 🔭 I’m currently working on ARTIFICIAL INTELLIGENCE POWERED MEDICAL RECOMMENDER SYSTEM WITH TELEMEDICINE SUPPORT
+- 🌱 I’m currently learning Deep Learning
+- 📫 How to reach me: ichirume99@gmail.com
 
 <!--
 **ishazi/ishazi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
